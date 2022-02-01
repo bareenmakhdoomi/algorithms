@@ -27,7 +27,7 @@ int main() {
         printf("\n");
     }
    ps=12*n*n+13*n+22;
- printf("Number of program steps =%d",&ps);
+ printf("Number of program steps =%d",ps);
   return 0;
 }
 
