@@ -19,6 +19,6 @@ int main()
    	} 
   printf("minimum element of array is: %d\nmaximum element of array is: %d\n",min,max); 
   ps=9*n+18;
- printf("Number of program steps =%d",&ps);   
+ printf("Number of program steps =%d",ps);   
 return 0;  
 }   
