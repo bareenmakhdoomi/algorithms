@@ -11,6 +11,6 @@ int main()
   }    
   printf("power of %d power %d is: %d\n",a,b,power);  
     ps=3*b+11;
- printf("Number of program steps =%d",&ps);  
+ printf("Number of program steps =%d",ps);  
 return 0;  
 }   
