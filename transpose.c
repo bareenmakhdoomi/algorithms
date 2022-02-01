@@ -24,6 +24,6 @@ int main() {
       printf("\n");
     }
  ps=9*r*c+3*c+10*r+25;
- printf("Number of program steps =%d",&ps);
+ printf("Number of program steps =%d",ps);
   return 0;
 }
