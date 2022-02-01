@@ -10,6 +10,6 @@ int main()
   }   
   printf("Factorial of %d is: %d\n",number,fact); 
   ps=3*number+10;
- printf("Number of program steps =%d",&ps);   
+ printf("Number of program steps =%d",ps);   
 return 0;  
 }   
